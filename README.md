@@ -1,11 +1,39 @@
-# AnalytIQ — Full Stack E-Commerce Analytics Dashboard
+<div align="center">
 
-> Premium MERN stack analytics platform with real-time dashboards, JWT auth, role-based access, CSV exports, and 500+ seeded demo records.
+# 🌌 AnalytIQ — AI-Powered E-Commerce Analytics Platform
 
-![Tech Stack](https://img.shields.io/badge/Stack-MERN-61DAFB?style=flat-square)
-![Auth](https://img.shields.io/badge/Auth-JWT-orange?style=flat-square)
-![UI](https://img.shields.io/badge/UI-Bootstrap%205-7952B3?style=flat-square)
-![Charts](https://img.shields.io/badge/Charts-Chart.js-FF6384?style=flat-square)
+### ⚡ Real-Time Insights • 📊 Smart Dashboards • 🔐 Secure Role-Based Access • 🚀 Modern MERN Architecture
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Premium+Full+Stack+Analytics+Platform;AI-Inspired+Dashboard+Experience;Role-Based+Access+Control+(RBAC);Real-Time+Sales+Analytics;JWT+Authentication+%26+Secure+API;Built+With+React+%2B+Node.js+%2B+MongoDB" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Auth-JWT-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Charts-Chart.js-FF6384?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UI-Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://gyanaranjanportfolio.lovable.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀 Live Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/gyanaranjansahoo0033/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/CoderGyanaa" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+> 🚀 A premium production-grade MERN analytics dashboard engineered for modern businesses with advanced data visualization, authentication, role-based access control, and scalable backend architecture.
 
 ---
 

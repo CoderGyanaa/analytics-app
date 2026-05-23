@@ -36,7 +36,60 @@
 > 🚀 A premium production-grade MERN analytics dashboard engineered for modern businesses with advanced data visualization, authentication, role-based access control, and scalable backend architecture.
 
 ---
+# 📸 Project Preview
 
+<div align="center">
+
+### 🔐 Authentication System
+<img width="1919" height="898" alt="image" src="https://github.com/user-attachments/assets/0b5b3cff-4cac-45f0-b352-f79f06a7a40e" />
+
+
+<br/><br/>
+
+### 📊 Analytics Dashboard
+<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/e146fd3e-da4f-44e2-9f92-ced868c15a8b" />
+<img width="1588" height="636" alt="image" src="https://github.com/user-attachments/assets/b31541ab-4768-4780-9958-d68738e823c4" />
+
+
+<br/><br/>
+
+### 📈 Revenue & Sales Analytics
+<img width="1919" height="919" alt="image" src="https://github.com/user-attachments/assets/d4900a9d-ea9b-491f-9c10-222b35e3301b" />
+<img width="1919" height="919" alt="image" src="https://github.com/user-attachments/assets/be61f831-ce55-434e-9427-7e0ac0e6cf96" />
+
+
+<br/><br/>
+
+### 👥 Team Management Panel
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/9738f400-e235-4b63-8f76-6765a01ed018" />
+
+
+<br/><br/>
+
+### 📦 Sales Management
+<img width="1919" height="838" alt="image" src="https://github.com/user-attachments/assets/cc4c29d4-2ee4-48fc-8613-d31341c9a4ba" />
+
+
+</div>
+
+---
+
+<div align="center">
+
+## ✨ Modern UI Highlights
+
+🌌 Futuristic Dashboard UI  
+📊 Interactive Real-Time Charts  
+⚡ Fast Vite + React Performance  
+🔐 Secure JWT Authentication  
+👥 Role-Based Access Control  
+📱 Fully Responsive Layout  
+📈 Advanced Data Visualization  
+🚀 Production-Ready MERN Architecture  
+
+</div>
+
+---
 ## ✨ Features
 
 | Feature | Details |
